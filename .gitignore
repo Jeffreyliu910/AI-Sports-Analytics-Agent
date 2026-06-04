@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Large raw datasets are kept out of GitHub because they exceed the 100MB limit.
+/hockey_data/all_teams.csv
+/hockey_data/2025_skaters.csv
